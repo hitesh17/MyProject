@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: BillingWebhook
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: GUR39609
+Implementation-Vendor-Id: com.aricent
+Build-Jdk: 1.8.0_05
+Implementation-URL: http://projects.spring.io/spring-boot/BillingWebho
+ ok/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
