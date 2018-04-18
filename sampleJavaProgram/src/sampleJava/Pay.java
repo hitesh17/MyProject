@@ -11,7 +11,7 @@ import com.squareup.okhttp.Request;
 import com.squareup.okhttp.RequestBody;
 import com.squareup.okhttp.Response;
 
-//this is use for send payment request
+//this is use for send payment request hitesh
 public class Pay {
 
 	public static void main(String ar[]) 
