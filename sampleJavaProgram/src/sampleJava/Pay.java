@@ -11,7 +11,7 @@ import com.squareup.okhttp.Request;
 import com.squareup.okhttp.RequestBody;
 import com.squareup.okhttp.Response;
 
-//added hitesh gupta
+//added create payment request
 public class Pay {
 
 	public static void main(String ar[]) 
