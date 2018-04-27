@@ -5,7 +5,7 @@ public class GitTest {
 	public static void main(String ar[])
 	{
 		
-		System.out.println("this is git project");
+		System.out.println("this is hitesh git project");
 	}
 
 }
