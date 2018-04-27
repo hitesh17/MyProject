@@ -14,7 +14,6 @@ import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
 
-//author : hitesh gupta
 //this is demo
 public class ZonaPyamentClient {
 	
