@@ -27,7 +27,7 @@ public class WebhookController {
 
 	        PaymentNotificationEvent created = repository.save(event);
 	        
-	        System.out.println("Event created successfully" + created.toString());
+	        System.out.println("Event created " + created.toString());
 	   
 
 	        return created;
