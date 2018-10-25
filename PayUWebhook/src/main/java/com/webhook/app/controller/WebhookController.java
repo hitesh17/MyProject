@@ -36,7 +36,7 @@ public class WebhookController {
 	    @RequestMapping(value = "{id}", method = RequestMethod.GET)
 	    PaymentNotificationEvent findById(@PathVariable("id") String id) {
 	        
-	        System.out.println("Inside the  findById" + id);
+	        System.out.println("Inside the  findById method" + id);
 
 	        PaymentNotificationEvent eventEntry = repository.findOne(id);
 	        System.out.println("Event value" + eventEntry.toString());
